@@ -1,18 +1,18 @@
 {
   "name": "@truongnv/controllers",
-  "version": "27.1.1",
+  "version": "27.1.2",
   "description": "Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets",
   "keywords": [
     "MetaMask",
     "Ethereum"
   ],
-  "homepage": "https://github.com/MetaMask/controllers#readme",
+  "homepage": "https://github.com/truongnv/controllers#readme",
   "bugs": {
-    "url": "https://github.com/MetaMask/controllers/issues"
+    "url": "https://github.com/truongnv/controllers/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MetaMask/controllers.git"
+    "url": "https://github.com/truongnv/controllers.git"
   },
   "license": "MIT",
   "main": "./dist/index.js",
